@@ -6,6 +6,8 @@
 
 ## My projects
 
+## Tech stack
+
 ## Find me on
 
 [![YouTube](https://img.shields.io/badge/YouTube​​​​-HorusGoul_-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/horusgoul)
