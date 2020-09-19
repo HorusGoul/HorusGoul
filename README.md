@@ -1,1 +1,1 @@
-![Horus Lugo - Full Stack Developer](banner.png)
+![Horus Lugo - Full Stack Developer](./banner.png)
