@@ -1,6 +1,8 @@
-# ![Horus Lugo - Full Stack Developer](./banner.png)
+![Horus Lugo - Full Stack Developer](./banner.png)
 
 ## About me
+
+Software development has been my passion for years. I've been always building stuff with the purpose of helping others to learn, build communities or even just for fun.
 
 - 👨‍💻 Created my first website **between 2008 and 2009**
 - 🧰 My favorite programming language is **TypeScript**
@@ -9,12 +11,6 @@
 - 🐱 **Cat** person
 - 🏓 Great **Ping Pong** player
 - 🎧 I love listening to [**Adagio For Strings by Tiësto**](https://www.youtube.com/watch?v=ZXA6DvfgzrI)
-
-<br>
-
-> Software development has been my passion for years. I've been always building stuff with the purpose of helping others to learn, build communities or even just for fun.
-
-<br>
 
 ## My projects
 
@@ -34,6 +30,6 @@ If you have questions related to web development try asking me on Twitter! I'll 
 
 ## Support me
 
-Feel free to buy me a coffee if you're enjoying my content 😄
+Feel free to buy me a coffee if you enjoy my content 😄
 
 <a href="https://www.buymeacoffee.com/horus" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" height="48px"></a>
