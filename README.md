@@ -2,7 +2,7 @@
 
 ## About me
 
-Software development has been my passion for years. I've been always building stuff with the purpose of helping others to learn, build communities or even just for fun.
+Software development has been my passion for years. I've always been building stuff to help others learn, build communities, or even just for fun.
 
 - 👨‍💻 Created my first website **between 2008 and 2009**
 - 🧰 My favorite programming language is **TypeScript**
@@ -14,7 +14,7 @@ Software development has been my passion for years. I've been always building st
 
 ## Tech stack
 
-I'm sure I forgot to add something 😆 but here's a big snapshot of what I'm using both at work and in my personal projects to build amazing stuff 👇
+I'm sure I forgot to add something 😆 , but here's a significant snapshot of what I'm using both at work and in my side projects to build amazing stuff 👇
 
 ### Editor
 
@@ -72,11 +72,11 @@ I'm sure I forgot to add something 😆 but here's a big snapshot of what I'm us
 
 ## My projects
 
-Here are the best projects of my portfolio, soon to be expanded with new interesting additions 🚀
+Here are the best projects of my portfolio, soon to be expanded with new exciting additions 🚀
 
 ### ![Atom - Periodic Table & Tests](./atom.png)
 
-A Progressive Web App that has already helped more than 70.000 students across the world. It's main focus is to make it easier to learn some basic aspects of chemistry such as the Periodic Table.
+A Progressive Web App that has already helped more than 70.000 students across the world. Its main focus is to make it easier to learn some fundamental aspects of chemistry, such as the Periodic Table.
 
 **Links**
 
@@ -86,7 +86,7 @@ A Progressive Web App that has already helped more than 70.000 students across t
 
 ### ![Kiddle](./kiddle.png)
 
-Platform built to empower interest-based communities. Planning on open sourcing it once its development resumes.
+A platform built to empower interest-based communities. I'm planning on open-sourcing it once its development resumes.
 
 **Links**
 
@@ -95,7 +95,7 @@ Platform built to empower interest-based communities. Planning on open sourcing 
 
 ## Find me on
 
-If you have questions related to web development try asking me on Twitter! I'll try to reply you ASAP 🤓
+If you have questions related to web development, try asking me on Twitter! I'll try to reply to you ASAP 🤓
 
 [![YouTube](https://img.shields.io/badge/YouTube​​​​-HorusGoul_-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/horusgoul)
 &nbsp;
