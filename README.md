@@ -72,7 +72,7 @@ I'm sure I forgot to add something 😆 but here's a big snapshot of what I'm us
 
 ## My projects
 
-Here are the best projects of my portfolio, soon to be expanded with new interesting additions that may even make disappear an existing entry 🤯
+Here are the best projects of my portfolio, soon to be expanded with new interesting additions 🚀
 
 ### ![Atom - Periodic Table & Tests](./atom.png)
 
