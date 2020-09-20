@@ -12,9 +12,27 @@ Software development has been my passion for years. I've been always building st
 - 🏓 Great **Ping Pong** player
 - 🎧 I love listening to [**Adagio For Strings by Tiësto**](https://www.youtube.com/watch?v=ZXA6DvfgzrI)
 
+## Tech stack
+
+### Front-end
+
+React
+
+### Back-end
+
+Node.js
+
 ## My projects
 
-## Tech stack
+### ![Atom - Periodic Table & Tests](./atom.png)
+
+A Progressive Web App that has already helped more than 70.000 students across the world. It's main focus is to make it easier to learn some basic aspects of chemistry such as the Periodic Table.
+
+**Links**
+
+- PWA: https://atom.horuslugo.com
+- Play Store: https://play.google.com/store/apps/details?id=tk.horusgoul.valenciasquimicas
+- GitHub: https://github.com/horusgoul/atom-pwa
 
 ## Find me on
 
