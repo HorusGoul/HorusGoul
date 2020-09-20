@@ -72,6 +72,8 @@ I'm sure I forgot to add something 😆 but here's a big snapshot of what I'm us
 
 ## My projects
 
+<br>
+
 ### ![Atom - Periodic Table & Tests](./atom.png)
 
 A Progressive Web App that has already helped more than 70.000 students across the world. It's main focus is to make it easier to learn some basic aspects of chemistry such as the Periodic Table.
@@ -81,6 +83,19 @@ A Progressive Web App that has already helped more than 70.000 students across t
 - PWA: https://atom.horuslugo.com
 - Play Store: https://play.google.com/store/apps/details?id=tk.horusgoul.valenciasquimicas
 - GitHub: https://github.com/horusgoul/atom-pwa
+
+<br>
+
+### ![Kiddle](./kiddle.png)
+
+Platform built to empower interest-based communities. Planning on open sourcing it once its development resumes.
+
+**Links**
+
+- PWA: https://kiddle.xyz
+- GitHub: Soon™️
+
+<br>
 
 ## Find me on
 
