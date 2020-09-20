@@ -14,6 +14,8 @@ Software development has been my passion for years. I've been always building st
 
 ## Tech stack
 
+I'm sure I forgot to add something 😆 but here's a big snapshot of what I'm using both at work and in my personal projects to build amazing stuff 👇
+
 ### Editor
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&labelColor=101010)
