@@ -8,6 +8,7 @@ Software development has been my passion for years. I've always been building st
 - 🧰 My favorite programming language is **TypeScript**
 - 💼 Working at **Z1 Digital Studio**
 - 🏠 Living at **Málaga, Spain**
+- 😄 My pronouns are **he/him**
 - 🐱 **Cat** person
 - 🏓 Great **Ping Pong** player
 - 🎧 I love listening to [**Adagio For Strings by Tiësto**](https://www.youtube.com/watch?v=ZXA6DvfgzrI)
