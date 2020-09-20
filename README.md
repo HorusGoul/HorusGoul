@@ -97,13 +97,10 @@ A platform built to empower interest-based communities. I'm planning on open-sou
 
 If you have questions related to web development, try asking me on Twitter! I'll try to reply to you ASAP 🤓
 
-[![YouTube](https://img.shields.io/badge/YouTube​​​​-HorusGoul_-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/horusgoul)
-&nbsp;
-[![Twitch](https://img.shields.io/badge/Twitch​​​​​​​​​​-HorusGoul-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/horusgoul)
-<br>
-[![Twitter](https://img.shields.io/badge/Twitter​​​​​-HorusGoul-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/horusgoul)
-&nbsp;
-[![My Website](https://img.shields.io/badge/My_Website-horus.dev​​-805ad5?style=for-the-badge&logo=&logoColor=white&labelColor=101010)](https://horus.dev)
+[![Twitter](https://img.shields.io/badge/-HorusGoul-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/horusgoul)
+[![YouTube](https://img.shields.io/badge/-HorusGoul_-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/horusgoul)
+[![Twitch](https://img.shields.io/badge/-HorusGoul-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/horusgoul)
+[![My Website](https://img.shields.io/badge/-horus.dev​​-805ad5?style=for-the-badge&logo=about.me&logoColor=white&labelColor=101010)](https://horus.dev)
 
 ## Support me
 
