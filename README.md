@@ -72,7 +72,7 @@ I'm sure I forgot to add something 😆 but here's a big snapshot of what I'm us
 
 ## My projects
 
-<br>
+Here are the best projects of my portfolio, soon to be expanded with new interesting additions that may even make disappear an existing entry 🤯
 
 ### ![Atom - Periodic Table & Tests](./atom.png)
 
@@ -84,8 +84,6 @@ A Progressive Web App that has already helped more than 70.000 students across t
 - Play Store: https://play.google.com/store/apps/details?id=tk.horusgoul.valenciasquimicas
 - GitHub: https://github.com/horusgoul/atom-pwa
 
-<br>
-
 ### ![Kiddle](./kiddle.png)
 
 Platform built to empower interest-based communities. Planning on open sourcing it once its development resumes.
@@ -94,8 +92,6 @@ Platform built to empower interest-based communities. Planning on open sourcing 
 
 - PWA: https://kiddle.xyz
 - GitHub: Soon™️
-
-<br>
 
 ## Find me on
 
