@@ -5,8 +5,7 @@
 Software development has been my passion for years. I've always been building stuff to help others learn, build communities, or even just for fun.
 
 - 👨‍💻 Created my first website **between 2008 and 2009**
-- 🧰 My favorite programming language is **TypeScript**
-<!--- 💼 Working at **Z1 Digital Studio**-->
+- 🧰 My favorite programming language is **TypeScript**<!--- 💼 Working at **Z1 Digital Studio**-->
 - 🏠 Living at **Málaga, Spain**
 - 😄 My pronouns are **he/him**
 - 🐱 **Cat** person
