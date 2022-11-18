@@ -84,15 +84,6 @@ A Progressive Web App that has already helped more than 70.000 students across t
 - Play Store: https://play.google.com/store/apps/details?id=tk.horusgoul.valenciasquimicas
 - GitHub: https://github.com/horusgoul/atom-pwa
 
-### ![Kiddle](./kiddle.png)
-
-A platform built to empower interest-based communities. I'm planning on open-sourcing it once its development resumes.
-
-**Links**
-
-- PWA: https://kiddle.xyz
-- GitHub: Soon™️
-
 ## Find me on
 
 If you have questions related to web development, try asking me on Twitter! I'll try to reply to you ASAP 🤓
