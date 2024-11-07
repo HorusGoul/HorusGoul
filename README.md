@@ -7,8 +7,7 @@ Quick links:
 
 You can reach out at:
 
-- **Twitter**: https://twitter.com/HorusGoul
-- **Threads**: https://threads.net/@HorusGoul
+- **Bluesky**: https://bsky.app/profile/horus.dev
 - **Email**: horusgoul@gmail.com
 - **LinkedIn**: https://linkedin.com/in/horusgoul
 
